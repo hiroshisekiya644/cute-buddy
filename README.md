@@ -142,7 +142,7 @@ From your command line, first clone this repo:
 
 ```
 # Clone this repository
-$ git clone https://github.com/ledgerluminary55/cute-buddy
+$ git clone https://github.com/hiroshisekiya644/cute-buddy
 
 # Go into the repository
 $ cd typescript-e-commerce
